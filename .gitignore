@@ -1,0 +1,16 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and system files
+*.log
+
+# Mac and Windows system files
+ehthumbs.db
+Desktop.ini
